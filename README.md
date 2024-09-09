@@ -13,7 +13,7 @@ Siga as etapas abaixo para configurar o ambiente local:
 1. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/VORP2830/stock-trading-api.git
+    git clone https://github.com/VORP2830/api.mvp.git
     ```
 
 2. **Navegue até o diretório do projeto**:
